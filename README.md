@@ -10,9 +10,6 @@ I research on Compliance, privacy and ethics for AI with Openmined.org where I h
 
 My [Codepen](https://codepen.io/callezenwaka) page has awesome demos. So are other demos on [GitHub](https://github.com/callezenwaka).
 
-I founded <a href="https://www.barestrpe.com">Barestripe.com</a>, an IT Consulting Services, drop an email 	
-<a href="mailto:callisezenwaka@barestripe.com">callisezenwaka@barestripe.com</a>
-
 My personal projects are listed below:
 - [Algoboard](https://www.algoboard.com) - An EdTech platform that supported schools during the COVID-19 lockdown. I am currently pivoting the platform.
 - [Algoforms](https://www.algoforms.com) - An low code platform for organization that collect data in remote regions. It is an offline first application with background sync embedded.
