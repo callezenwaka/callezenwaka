@@ -6,28 +6,28 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** at [OpenMined Foundation](https://openmined.org) passionate about building secure, privacy-preserving AI systems. Currently collaborating with **Anthropic** and the **UK AI Security Institute** on cutting-edge AI evaluation frameworks.
+I am a **Software Engineer** at [OpenMined Foundation](https://openmined.org) passionate about building secure, privacy-preserving AI systems. Collaborated with third-party clients includeing Reddit, **Anthropic** and the **UK AI Security Institute** on cutting-edge AI evaluation frameworks.
 
-- 🔐 **Expertise**: Privacy-Preserving AI, Cybersecurity, Full-Stack Development
-- 🎓 **Education**: MSc Biomedical Engineering (Distinction) - University of Hull
-- 📜 **Certifications**: CISSP, PMP, AWS Solutions Architect
-- 📍 **Location**: London, UK
-- 🌱 **Currently**: Contributing to Node.js Core WebSocket client
+- **Expertise**: Privacy-Preserving AI, Cybersecurity, Full-Stack Development
+- **Education**: MSc Biomedical Engineering (Distinction) - University of Hull
+- **Certifications**: CISSP, PMP, AWS Solutions Architect
+- **Location**: London, UK
+- **Currently**: Contributing to Node.js Core
 
 ## 💼 Professional Experience
 
 ### 🏢 Current Role
 **Software Engineer @ OpenMined Foundation** *(Jan 2024 - Present)*
-- 🛡️ Enhanced security by refactoring Python encryption algorithms for Syft toolkit
-- 🤖 Developed Python SDK for LLM integration, reducing deployment costs
-- 📈 Drove **4.5k+ monthly downloads** through automated documentation
-- 🤝 Piloting secure enclaves with **Anthropic** & **UK AI Security Institute**
+- Enhanced security by refactoring Python encryption algorithms for Syft toolkit
+- Developed Python SDK for LLM integration, reducing deployment costs
+- Drove **4.5k+ monthly downloads** through automated documentation
+- Piloting secure enclaves with **Anthropic** & **UK AI Security Institute**
 
 ### 🚀 Key Achievements
-- 📊 **70% reduction** in bugs via TypeScript dependency tracking
-- 🔒 **20% reduction** in auth support tickets through Okta migration  
-- 📈 **3x platform growth** using PyTorch dynamic pricing models
-- 🛡️ **70% reduction** in phishing click-through rates
+- **70% reduction** in bugs via TypeScript dependency tracking
+- **20% reduction** in auth support tickets through Okta migration  
+- **3x platform growth** using PyTorch dynamic pricing models
+- **70% reduction** in phishing click-through rates
 
 ## 🛠️ Tech Stack
 
@@ -84,11 +84,11 @@ I'm a **Software Engineer** at [OpenMined Foundation](https://openmined.org) pas
 
 ## 🏆 Certifications & Achievements
 
-- 🛡️ **CISSP** - Certified Information Systems Security Professional (2025-2028)
-- 🎯 **PMP** - Project Management Professional (2024-2027)  
-- ☁️ **AWS Solutions Architect** - Certified (2021-2024)
-- 🔒 **GDPR** - General Data Protection Regulation (2021-Present)
-- 📘 **Azure Fundamentals** - Microsoft Certified (2021-Present)
+- **CISSP** - Certified Information Systems Security Professional (2025-2028)
+- **PMP** - Project Management Professional (2024-2027)  
+- **AWS Solutions Architect** - Certified (2021-2024)
+- **GDPR** - General Data Protection Regulation (2021-Present)
+- **Azure Fundamentals** - Microsoft Certified (2021-Present)
 
 ## 📝 Publications & Research
 
