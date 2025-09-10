@@ -96,6 +96,10 @@ I am a **Software Engineer** at [OpenMined Foundation](https://openmined.org) pa
 *"Attribution-Based Control: Unlocking New Data for AI Without Compromising Copyright or Privacy"*  
 Co-authors: A. Trask, L. Strahm, D. Buckley, et al.
 
+**[OpenMined](https://openmined.org/blog/secure-enclaves-for-ai-evaluation/) 2024** *(Published)*  
+*"Secure Enclaves for AI Evaluation: A pilot experiment conducted by OpenMined, in partnership with the UK AI Safety Institute (AISI) and Anthropic."*  
+Co-authors: A. Trask, L. Strahm, D. Buckley, et al.
+
 ## 📈 Activity Graph
 
 <div align="center">
